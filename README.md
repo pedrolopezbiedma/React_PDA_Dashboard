@@ -1,14 +1,15 @@
 # React_PDA_Dashboard
 
-Repository created following this [Udemy Course](https://www.udemy.com/course/react-redux/) to practice basic React concepts:
-
-TODO: Include here concepts
+Repository created following this [Udemy Course](https://www.udemy.com/course/react-redux/) to practice the following basic React concepts:
 
 - Component encapsulation.
+- Basic props handling
 
-TODO: Look and feel
+## Application
 
-- Include screenshot here.
+Application just displays some fix information about Personal Digital Assistants. This information is contained in cards, using the Bulma CSS framework.
+
+![Screenshot](utils/PDA_Dashboard.png)
 
 ## Run Locally
 
